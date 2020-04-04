@@ -1,0 +1,1 @@
+copy inventar.txt database\ZlajaMalekula
